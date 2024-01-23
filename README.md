@@ -1,2 +1,4 @@
 # llama2-mac68k.c
-in progress: llama2.c ported to mac-68k (THINK C 5.0)
+
+I am currently attempting to port llama2.c to classic Macintosh System 7 (THINK C 5.0).
+This means porting llama2.c to C89 with polyfills, and polyfilling for mmap too.
