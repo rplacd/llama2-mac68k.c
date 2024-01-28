@@ -8,6 +8,8 @@ I am currently attempting to port llama2.c to classic Macintosh System 7 (THINK 
 
 – Back-porting stdint.h and time.h from Retro68's C99 implementation;
 
-– and, the part I haven't done yet, polyfilling for mmap.
+– Writing polyfills for mmap;
+
+– Handling little-ending to big-endian converson when files are read directly into memory;
 
 Regardless of whether I succeed or not, I'll post things here at some point.
